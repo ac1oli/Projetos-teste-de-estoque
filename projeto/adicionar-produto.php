@@ -16,7 +16,7 @@
 
   <body class="bg-dark">
 
-    //PEGA O ARQUIVO 'navbar.php' E INCLUI NO CODIGO
+    <!-- //PEGA O ARQUIVO 'navbar.php' E INCLUI NO CODIGO -->
     <?php include('navbar.php') ?>
 
     <div class="container mt-5">
