@@ -1,0 +1,21 @@
+
+
+ button{
+    position: relative;
+    left: 1000px;
+}
+
+table {
+    display: flex;
+    justify-content: center;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 2px;
+    text-align: left;
+    white-space: nowrap;
+}
+th {
+    background-color: #f2f2f2;
+}
